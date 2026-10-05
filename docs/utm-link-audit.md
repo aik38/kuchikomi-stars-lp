@@ -17,7 +17,7 @@ LP内部リンク、canonical、メールリンク、LINE、Googleフォーム�
 
 監査後、2026-09-23に必要箇所だけ実装しました。営業文章、contacts.xlsx構造、GUI、フォーム入力ロジック、LP内部リンクは変更していません。
 
-## 2. LP（killerword-lp）監査
+## 2. LP（kuchikomi-stars-lp）監査
 
 対象:
 - `/`

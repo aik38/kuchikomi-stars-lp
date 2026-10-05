@@ -3,7 +3,7 @@
 `https://kuchikomi-stars.com/` で公開する、クチコミスターズのサービスLPです。
 
 - 本番: https://kuchikomi-stars.com/
-- GitHub Pages確認用: https://aik38.github.io/killerword-lp/
+- GitHub Pages確認用: https://aik38.github.io/kuchikomi-stars-lp/
 - クチコミシステム: https://review.kuchikomi-stars.com/
 - システムrepo: `aik38/kuchikomi-stars`
 
